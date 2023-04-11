@@ -1,2 +1,2 @@
 # Proyecto Diseño
-## Sistema-Epic
+## Sistema Equipo Primer ingreso en Computacion - Sistema EPiC
